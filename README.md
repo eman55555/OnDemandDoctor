@@ -25,7 +25,7 @@ The app consists of: -app intro (fragments) to show what the app presents
 The big round button on the main screen allows to complete your profile to accomplish your wanted service. The hamburger button in top bar allows to change to settings view.
 API
 
-The API that will be used is an open API available here for expermintation: https://my-json-server.typicode.com/typicode/demo/posts
+The API that will be used is an open API available here for expermintation: https://console.firebase.google.com/u/0/project/on-demand-doctor-d445f/overview
 Design documentation
 
 Activities -AppIntro
